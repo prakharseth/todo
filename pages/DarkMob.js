@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import dmbg from "../public/images/bg-mobile-dark.jpg";
 
-import TodoHead from "../Components/TodoHead";
+import TodoHead from "../components/TodoHead";
 import CreateTodo from "./../components/CreateTodo";
 import TodoList from "../components/TodoList";
 import TodoStatus from "./../components/TodoStatus";
